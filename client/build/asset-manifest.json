@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae96d4ff.css",
+    "main.js": "/static/js/main.8b94c423.js",
+    "static/media/BigMac.jpg": "/static/media/BigMac.e5b4977b8666b26f94c9.jpg",
+    "static/media/BigTasty.jpg": "/static/media/BigTasty.b9d3f9fb6fd58473a99b.jpg",
+    "static/media/McChicken.jpg": "/static/media/McChicken.51883d7c6a1a99906dcb.jpg",
+    "static/media/Longer.jpg": "/static/media/Longer.2a540959a37101a6dea5.jpg",
+    "static/media/DoubleChicken.jpg": "/static/media/DoubleChicken.4dc7f517f3123299e130.jpg",
+    "static/media/Cheeseburger.jpg": "/static/media/Cheeseburger.17a8e2464e05596d553d.jpg",
+    "index.html": "/index.html",
+    "main.ae96d4ff.css.map": "/static/css/main.ae96d4ff.css.map",
+    "main.8b94c423.js.map": "/static/js/main.8b94c423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae96d4ff.css",
+    "static/js/main.8b94c423.js"
+  ]
+}

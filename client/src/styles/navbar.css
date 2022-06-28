@@ -1,0 +1,12 @@
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+    cursor: pointer;
+}
+.navbar a:first-child{
+    margin-right: 1em;
+}
+.navbar{
+    margin: 0 5%;
+}

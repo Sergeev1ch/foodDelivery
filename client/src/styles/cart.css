@@ -1,0 +1,78 @@
+.mainCart{
+    padding: 3% 5%;
+    display: flex;
+}
+.about{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.about span:first-child{
+    margin-top: 0;
+}
+.about span{
+    margin-top: 5%;
+    font-size: 1.3em;
+}
+.about input{
+    margin-top: 1%;
+    font-size: 1.3em;
+    border-radius: 10px;
+}
+.cart{
+    width: 60%;
+    margin-left: 10%;
+    height: 60vh;
+    overflow-y: scroll;
+}
+.cartItem{
+    margin-bottom: 5%;
+    display: flex;
+    align-items: center;
+}
+.cartItem img{
+    width: 30%;
+}
+.orderBlock{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3em;
+    margin-left: 5%;
+}
+.orderBlock span{
+    margin-bottom: 5%;
+}
+.orderBlock input{
+    font-size: 1em;
+    width: 50%;
+}
+.orderBlock button{
+    margin-top: 5%;
+    width: 30%;
+    font-size: 0.8em;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.orderButton{
+    margin-right: 20%;
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.orderButton button{
+    cursor: pointer;
+    padding: 0.5em 1em;
+    border-radius: 20px;
+    font-size: 1em;
+    margin-left: 7%;
+}
+.orderButton span{
+    font-size: 1.3em;
+}
+.pError{
+    font-size: 1em;
+    margin: 0;
+    color: red;
+}

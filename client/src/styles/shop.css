@@ -1,0 +1,59 @@
+.mainShop{
+    display: flex;
+    flex-direction: row;
+    margin: 0 5%;
+    justify-content: space-between;
+}
+.shops{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+}
+.shopName{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 10%;
+    padding: 5% 0;
+    cursor: pointer;
+}
+.shopName span{
+    font-size: 1.5em;
+}
+.items{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-height: 80vh;
+    overflow-y: scroll;
+    padding-right: 3%;
+    margin-top: 5%;
+}
+.item{
+    margin-bottom: 5%;
+    width: 30%;
+}
+.item span{
+    font-size: 1.3em;
+}
+.item img{
+    width: 100%;
+    margin-bottom: 3%;
+}
+.priceBlock{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.priceBlock button{
+    cursor: pointer;
+    padding: 3%;
+    border-radius: 20px;
+    font-size: 1em;
+}
